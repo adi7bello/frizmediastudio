@@ -1,37 +1,19 @@
-[
-  {
-    "id": 1,
-    "title": "Cute Cat Pink 1",
-    "category": "Cute",
-    "image_url": "https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg",
-    "thumbnail_url": "https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg"
-  },
-  {
-    "id": 2,
-    "title": "Cute Cat Pink 2",
-    "category": "Cute",
-    "image_url": "https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg",
-    "thumbnail_url": "https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg"
-  },
-  {
-    "id": 3,
-    "title": "Cute Cat Pink 3",
-    "category": "Cute",
-    "image_url": "https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg",
-    "thumbnail_url": "https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg"
-  },
-  {
-    "id": 4,
-    "title": "Cute Cat Pink 4",
-    "category": "Cute",
-    "image_url": "https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg",
-    "thumbnail_url": "https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg"
-  },
-  {
-    "id": 5,
-    "title": "Cute Cat Pink 5",
-    "category": "Cute",
-    "image_url": "https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg",
-    "thumbnail_url": "https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg"
-  }
-]
+{
+  "categories": ["Home", "Cute", "Animals", "Pastel", "Premium"],
+  "wallpapers": [
+    {
+      "id": 1,
+      "title": "Cute Cat Pink",
+      "category": "Cute",
+      "image_url": "https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg",
+      "thumbnail_url": "https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Baby Lion",
+      "category": "Animals",
+      "image_url": https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg,
+      "thumbnail_url": https://i.pinimg.com/736x/1a/dc/35/1adc35b5dce6e2c9d3824023c4563f74.jpg
+    }
+  ]
+}
